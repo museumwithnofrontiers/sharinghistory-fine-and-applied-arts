@@ -76,6 +76,23 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_15.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=GR_01;gr&shpro=AWE&",
+      "tip": "Benaki Museum, Athens, Greece"
+    },
+    {
+      "image": "legacy/logos/item_logo_25.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=TR_02;tr&shpro=AWE&",
+      "tip": "Ministry of Culture and Tourism (General Directorate for Cultural Heritage and Museums), Ankara, T&uuml;rkiye"
+    },
+    {
+      "image": "legacy/logos/item_logo_35.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=ES_01;es&shpro=AWE&",
+      "tip": "National Museum of Decorative Arts, Madrid, Spain"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=GR_01;gr&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/d321bef5-3599-590f-a696-aa3a0d57d455",
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=TR_02;tr&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/8f0d2773-afea-51e8-ab5b-624187d06f77",

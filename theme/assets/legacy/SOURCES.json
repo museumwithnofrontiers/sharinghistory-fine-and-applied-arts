@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Fine and Applied Arts (exhibitions/AWE/, exhibition 5), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Fine and Applied Arts (exhibitions/AWE/, exhibition 5), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,18 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/5/intro_bg.jpg",
       "sha256": "c3a942355d7c6926af4c6f32943f29552f0f68c2a98279ed75bf1568c31707d5"
+    },
+    "theme/assets/legacy/logos/item_logo_15.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/5/item_logo_15.png",
+      "sha256": "1748f6d3454278a1cf82397b4d3ec1d2311433ab27685199df4eea40af12928c"
+    },
+    "theme/assets/legacy/logos/item_logo_25.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/5/item_logo_25.png",
+      "sha256": "6b3adfa2b182343792e3fefb3f60c52aa186d3a28ab946e35b7d859bfc12e32a"
+    },
+    "theme/assets/legacy/logos/item_logo_35.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/5/item_logo_35.png",
+      "sha256": "0bcb9cca9a2e975dfcd0ff604b3ef16b3a066b814771b4442ba34e9ab27f7559"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
